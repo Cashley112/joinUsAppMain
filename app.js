@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     database: 'join_us',
-    password: answer
+    password: 'Bjjdrummer2!'
 });
 
 app.get("/", function(req, res){
